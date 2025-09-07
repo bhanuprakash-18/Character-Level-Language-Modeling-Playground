@@ -1,4 +1,4 @@
-# MakeMore: Character-Level Language Modeling Playground
+# Character-Level Language Modeling Playground
 
 This project is a hands-on playground for experimenting with character-level language models using PyTorch.  
 The main focus is on **learning by building models from scratch** — implementing forward and backward passes manually, rather than relying on high-level built-in functions.  
