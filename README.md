@@ -19,9 +19,9 @@ The project includes Jupyter notebooks for exploring and visualizing different c
 2. Open and run the notebooks for interactive exploration and visualization.
 
 ## Models Included
-- Bigram Nearest Neighbor
-- Bigram Probabilistic
-- MLP Character-Level
+- Bigram Probabilistic 
+- Bigram model using single layer neural network
+- MLP Character-Level 
 
 ## Suggested Project Title
 **MakeMore: Character-Level Language Modeling Playground**
